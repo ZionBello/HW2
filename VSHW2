@@ -1,5 +1,3 @@
-USE cis3368springdb;
-
 CREATE TABLE zoo (
     id INT AUTO_INCREMENT PRIMARY KEY,
     domain VARCHAR(50),
